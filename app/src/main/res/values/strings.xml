@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="btn1">Enter</string>
+    <string name="txt">Click The button to Enter the Calculator</string>
+    <string name="txd">Enter  First number</string>
+    <string name="tx2">Enter Second Number</string>
+    <string name="tx3">Select The Operation</string>
+    <string name="tx4">Result</string>
+    <string name="add">ADD</string>
+    <string name="Subtract">Subtract</string>
+    <string name="Multiply">Multiply</string>
+    <string name="Divide">Divide</string>
+    <string name="a3">Enter First Number</string>
+</resources>
